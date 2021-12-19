@@ -2,4 +2,10 @@
 
 
 # Dino-Game
-This is a game I made for Science Exhibition, its entirely made in Cpp and SFML. Some files are commited, including the Setup file/
+
+
+# Screenshots
+![](https://github.com/KrishnarajT/Dino-Game/blob/master/Screenshots/Dino_Game_aepbW4WFhY.png)
+![](https://github.com/KrishnarajT/Dino-Game/blob/master/Screenshots/Dino_Game_sfWQG416bH.png)
+![](https://github.com/KrishnarajT/Dino-Game/blob/master/Screenshots/Dino_Game_QDBDTTksOR.png)
+![](https://github.com/KrishnarajT/Dino-Game/blob/master/Screenshots/Dino_Game_DaPaPAmmkx.png)
